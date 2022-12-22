@@ -16,9 +16,9 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Zhang
 highlight_name: true
-first_name: Alice
+first_name: Keyi
 email: keyizhang@mail.ustc.edu.cn
 ---
 Keyi Zhang is me.
